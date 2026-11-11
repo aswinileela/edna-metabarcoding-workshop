@@ -102,4 +102,4 @@ qiime demux summarize \
 1. Compare `paired-end-demux.qzv` and `trimmed.qzv`. How do read length and read count change?
 2. Why are FastQC sequence-content warnings expected here?
 
-Next: [Module 03: Denoising with DADA2](../03_denoising/)
+[![Next](../../docs/images/next_button.svg)](../03_denoising/) &nbsp; **[Module 03: Denoising with DADA2](../03_denoising/)**

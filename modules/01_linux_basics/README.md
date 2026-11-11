@@ -39,4 +39,4 @@ The text in this module is adapted from the Wellcome Connecting Science course *
 - <https://futurelearn.com/info/courses/linux-for-bioinformatics/0/steps/194524>
 - <https://futurelearn.com/info/courses/linux-for-bioinformatics/0/steps/194525>
 
-Next: [Module 02: Quality control, import and primer trimming](../02_import_and_qc/)
+[![Next](../../docs/images/next_button.svg)](../02_import_and_qc/) &nbsp; **[Module 02: Quality control, import and primer trimming](../02_import_and_qc/)**

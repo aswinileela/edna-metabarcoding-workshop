@@ -86,4 +86,4 @@ bash scripts/run_workflow.sh -t 8        # -t = number of CPU threads
 
 This runs Modules 02-06 and writes the same folder layout as `example_results/`. Use the modules below to understand each step, and compare your outputs with the pictures.
 
-Next: [Module 01: Linux basics](../01_linux_basics/)
+[![Next](../../docs/images/next_button.svg)](../01_linux_basics/) &nbsp; **[Module 01: Linux basics](../01_linux_basics/)**

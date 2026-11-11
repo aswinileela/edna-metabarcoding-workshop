@@ -178,4 +178,4 @@ Reference files: [`example_results/03_core-metrics-results/`](../../example_resu
 2. Which alpha metrics are higher in Lembeh Strait? With only 4 samples per region, how much weight would you put on the p-values?
 3. Do the PCoA plots separate by region, by site, or both? Do the replicates of a site cluster together?
 
-Next: [Module 05: Taxonomic classification](../05_taxonomy/)
+[![Next](../../docs/images/next_button.svg)](../05_taxonomy/) &nbsp; **[Module 05: Taxonomic classification](../05_taxonomy/)**

@@ -70,4 +70,4 @@ Reference files: [`example_results/05_ancom_result/`](../../example_results/05_a
 2. With 2 sites per region, what could limit the conclusions?
 3. How would you design sampling to separate region effects from site effects?
 
-Next: [Module 07: Plotting with qiime2R](../07_qiime2r_visualisation/)
+[![Next](../../docs/images/next_button.svg)](../07_qiime2r_visualisation/) &nbsp; **[Module 07: Plotting with qiime2R](../07_qiime2r_visualisation/)**

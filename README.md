@@ -275,12 +275,8 @@ The files in `example_results/` were produced with QIIME 2 2026.1.0. Small numer
 - Dr. Aswini Leela
 - Dr. Cheah Hong Leong
 
-Repository created and maintained by Dr. Aswini Leela ([@aswinileela](https://github.com/aswinileela)).
-
 ## Acknowledgements
 
 The Linux introduction in [Module 01](modules/01_linux_basics/) is adapted from the Wellcome Connecting Science FutureLearn course *Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R* (see the source note in that module).
 
-## Contact
-
-Questions or corrections: open an issue on this repository.
+Repository created and maintained by Dr. Aswini Leela ([@aswinileela](https://github.com/aswinileela)).

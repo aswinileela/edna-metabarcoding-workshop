@@ -125,4 +125,4 @@ Reference files: [`example_results/01_denoising_clustering_summary/`](../../exam
 2. How do the number of ASVs and the per-sample read counts differ between the three runs?
 3. What goes wrong if the truncation length is too short for read pairs to overlap?
 
-Next: [Module 04: Diversity analysis](../04_diversity/)
+[![Next](../../docs/images/next_button.svg)](../04_diversity/) &nbsp; **[Module 04: Diversity analysis](../04_diversity/)**

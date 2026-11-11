@@ -108,4 +108,4 @@ Reference files: [`example_results/04_taxonomic_classification/`](../../example_
 3. A salmonid (*Salmo salar*) is among the assignments. Is that plausible on a tropical reef? What could explain it (database labels, contamination, food-web or market DNA), and how would negative controls help?
 4. Why should detections not be read as fish abundance or biomass?
 
-Next: [Module 06: Differential abundance](../06_differential_abundance/)
+[![Next](../../docs/images/next_button.svg)](../06_differential_abundance/) &nbsp; **[Module 06: Differential abundance](../06_differential_abundance/)**
