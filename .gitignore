@@ -1,0 +1,5 @@
+.DS_Store
+*.swp
+analysis/
+fastqc_raw/
+__pycache__/
