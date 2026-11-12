@@ -77,7 +77,7 @@ Work through the modules in order, from the `analysis/` folder created in Module
 
 | # | Module | Topic | Slides |
 |---|---|---|---|
-| 00 | [Setup](modules/00_setup/) | Install software, prepare the data | |
+| 00 | [Setup](modules/00_setup/) | Install software, prepare the data | [Workshop overview](slides/02_Workshop_Hands-On_Practical.pdf) |
 | 01 | [Linux basics](modules/01_linux_basics/) | Command line essentials | [Introduction to Linux](slides/03_Introduction_to_Linux.pdf) |
 | 02 | [Quality control, import and primer trimming](modules/02_import_and_qc/) | Check raw read quality, import reads, trim primers | [Lecture](slides/01_Lecture_eDNA_Metabarcoding.pdf) |
 | 03 | [Denoising with DADA2](modules/03_denoising/) | ASVs, truncation length, with and without primer removal | [Lecture](slides/01_Lecture_eDNA_Metabarcoding.pdf) |
